@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Projects/NEO/ManagedCare/ManagedCare/src/java/com/koh/automation/command/EmployeeNumberUpdates.java</file>
+            <file>file:/C:/Projects/NEO/ManagedCare/ManagedCare/src/java/com/koh/claims/command/ViewProviderDetailsCommand.java</file>
+            <file>file:/C:/Projects/NEO/ManagedCare/ManagedCare/src/java/com/koh/automation/command/EmployeeNumberUpdateExport.java</file>
+            <file>file:/C:/Projects/NEO/ManagedCare/ManagedCare/src/java/com/koh/practice_management/command/SavePracticeDetails.java</file>
+            <file>file:/C:/Projects/NEO/ManagedCare/ManagedCare/src/java/com/koh/pdc/command/ViewPolicyHolderDetailsCommand.java</file>
+            <file>file:/C:/Projects/NEO/ManagedCare/ManagedCare/src/java/com/koh/automation/tags/EmployeeNumberUpdateTable.java</file>
+            <file>file:/C:/Projects/NEO/ManagedCare/ManagedCare/src/java/com/koh/practice/PracticeManagementMainMapping.java</file>
+            <file>file:/C:/Projects/NEO/ManagedCare/ManagedCare/src/java/com/koh/serv/AgileController.java</file>
+            <file>file:/C:/Projects/NEO/ManagedCare/ManagedCare/src/java/com/koh/preauth/command/CalculateCoPaymentAmounts.java</file>
+            <file>file:/C:/Projects/NEO/ManagedCare/ManagedCare/src/java/com/koh/practice_management/command/UpdatePracticeNameCommand.java</file>
+        </group>
+    </open-files>
+</project-private>
